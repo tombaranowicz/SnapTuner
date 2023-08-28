@@ -1,0 +1,4 @@
+node_modules
+ios/Pods
+android/.gradle
+package-lock.json
